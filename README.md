@@ -1,4 +1,4 @@
-## Seja bem vindo! Sou o Diego Figueiró, estudante das Ciências da Computação!  💻📚
+## Seja bem vindo! Sou o Diego Figueiró, entusiasta da Ciências de Dados!  💻📚
 
 <div align="center">
   <a href="https://github.com/diego-figueiro">
